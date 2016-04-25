@@ -1,6 +1,6 @@
 name: SteveZ
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25041
 typography_spectrum: 0.9838618054054677
 cta:
   domain: null
@@ -23,6 +23,6 @@ color:
     - '#da1525'
   brandStrength: 1
   lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
